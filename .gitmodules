@@ -7,3 +7,6 @@
 [submodule "core"]
 	path = core
 	url = git@github.com:mgiaco/test_lib_core.git
+[submodule "features/others/feat3"]
+	path = features/others/feat3
+	url = git@github.com:mgiaco/test_lib_feature3.git
