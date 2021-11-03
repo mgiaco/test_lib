@@ -4,3 +4,6 @@
 [submodule "features/others/feat2"]
 	path = features/others/feat2
 	url = git@github.com:mgiaco/test_lib_feature2.git
+[submodule "core"]
+	path = core
+	url = git@github.com:mgiaco/test_lib_core.git
