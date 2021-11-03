@@ -1,0 +1,6 @@
+[submodule "features/feat1"]
+	path = features/feat1
+	url = git@github.com:mgiaco/test_lib_feature1.git
+[submodule "features/others/feat2"]
+	path = features/others/feat2
+	url = git@github.com:mgiaco/test_lib_feature2.git
